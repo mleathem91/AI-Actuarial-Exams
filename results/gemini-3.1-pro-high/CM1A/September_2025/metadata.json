@@ -1,0 +1,158 @@
+{
+    "subject": "CM1A",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-25",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 59,
+    "marks_awarded_harsh": 82.5,
+    "percentage_harsh": 82.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 85.0,
+    "percentage_fair": 85.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 89.5,
+    "percentage_generous": 89.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 4,
+            "marks_awarded_harsh": 4.0,
+            "marks_awarded_fair": 4.0,
+            "marks_awarded_generous": 4.0,
+            "topics": [
+                "increasing annuity",
+                "loan mathematics"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 5,
+            "marks_awarded_harsh": 0.0,
+            "marks_awarded_fair": 0.0,
+            "marks_awarded_generous": 1.0,
+            "topics": [
+                "constant force of mortality",
+                "fractional annuity"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 7,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 7.0,
+            "topics": [
+                "gross future loss random variable",
+                "prospective reserve",
+                "retrospective reserve"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 8,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 8.0,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "discounted mean term",
+                "volatility",
+                "interest rate sensitivity"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 8,
+            "marks_awarded_harsh": 7.5,
+            "marks_awarded_fair": 7.5,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "multiple state models",
+                "transition force"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 7,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 7.0,
+            "topics": [
+                "multiple decrement tables",
+                "independent and dependent probabilities"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 8,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 8.0,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "discounted payback period",
+                "accumulated profit"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 12,
+            "marks_awarded_harsh": 12.0,
+            "marks_awarded_fair": 12.0,
+            "marks_awarded_generous": 12.0,
+            "topics": [
+                "profit testing",
+                "profit vector",
+                "profit signature",
+                "surrender values"
+            ]
+        },
+        {
+            "question": 9,
+            "marks_available": 9,
+            "marks_awarded_harsh": 4.0,
+            "marks_awarded_fair": 5.5,
+            "marks_awarded_generous": 7.0,
+            "topics": [
+                "joint life functions",
+                "last survivor annuity",
+                "prospective reserve"
+            ]
+        },
+        {
+            "question": 10,
+            "marks_available": 11,
+            "marks_awarded_harsh": 11.0,
+            "marks_awarded_fair": 11.0,
+            "marks_awarded_generous": 11.0,
+            "topics": [
+                "dividend discount model",
+                "real rate of return",
+                "inflation index"
+            ]
+        },
+        {
+            "question": 11,
+            "marks_available": 9,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "force of interest",
+                "continuous payment stream"
+            ]
+        },
+        {
+            "question": 12,
+            "marks_available": 12,
+            "marks_awarded_harsh": 5.0,
+            "marks_awarded_fair": 6.0,
+            "marks_awarded_generous": 7.5,
+            "topics": [
+                "mortality profit",
+                "death strain at risk"
+            ]
+        }
+    ]
+}

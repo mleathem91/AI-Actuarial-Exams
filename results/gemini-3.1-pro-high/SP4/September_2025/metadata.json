@@ -1,0 +1,80 @@
+{
+    "subject": "SP4",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Gemini 3.1 Pro (High)",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 58,
+    "marks_awarded_harsh": 63.0,
+    "percentage_harsh": 63.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 80.0,
+    "percentage_fair": 80.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 89.5,
+    "percentage_generous": 89.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 12,
+            "marks_awarded_harsh": 12.0,
+            "marks_awarded_fair": 12.0,
+            "marks_awarded_generous": 12.0,
+            "topics": [
+                "investment strategy",
+                "bonds",
+                "LDI"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 9,
+            "marks_awarded_harsh": 5.0,
+            "marks_awarded_fair": 6.5,
+            "marks_awarded_generous": 7.5,
+            "topics": [
+                "defined contribution schemes",
+                "member choices"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 15,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 10.5,
+            "marks_awarded_generous": 12.0,
+            "topics": [
+                "role of employers",
+                "accounting disclosures",
+                "discount rates"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 25,
+            "marks_awarded_harsh": 16.5,
+            "marks_awarded_fair": 20.5,
+            "marks_awarded_generous": 23.0,
+            "topics": [
+                "consolidators",
+                "insurance buy-outs",
+                "stakeholder perspectives"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 39,
+            "marks_awarded_harsh": 22.5,
+            "marks_awarded_fair": 30.5,
+            "marks_awarded_generous": 35.0,
+            "topics": [
+                "funding basis vs buy-out",
+                "funding methods",
+                "covenant assessment",
+                "discontinuance methods"
+            ]
+        }
+    ]
+}

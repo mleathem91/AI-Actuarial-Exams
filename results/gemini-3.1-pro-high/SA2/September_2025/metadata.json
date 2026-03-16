@@ -1,0 +1,57 @@
+{
+    "subject": "SA2",
+    "sitting": "September_2025",
+    "model": "gemini-3.1-pro-high",
+    "graded_by": "gemini-3.1-pro-high",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 45,
+    "marks_awarded_harsh": 76.5,
+    "percentage_harsh": 76.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 91.5,
+    "percentage_fair": 91.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 99.0,
+    "percentage_generous": 99.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 36,
+            "marks_awarded_harsh": 29.0,
+            "marks_awarded_fair": 33.0,
+            "marks_awarded_generous": 36.0,
+            "topics": [
+                "Administration migration",
+                "Product simplification",
+                "With-Profits fund mergers"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 34,
+            "marks_awarded_harsh": 27.0,
+            "marks_awarded_fair": 32.0,
+            "marks_awarded_generous": 34.0,
+            "topics": [
+                "Income protection risks",
+                "Economic capital vs Regulatory capital",
+                "Climate change",
+                "Scenario testing"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 30,
+            "marks_awarded_harsh": 20.5,
+            "marks_awarded_fair": 26.5,
+            "marks_awarded_generous": 29.0,
+            "topics": [
+                "IFRS 17 measurement models",
+                "Solvency II vs IFRS 17 BEL",
+                "IFRS 17 simplifying assumptions"
+            ]
+        }
+    ]
+}

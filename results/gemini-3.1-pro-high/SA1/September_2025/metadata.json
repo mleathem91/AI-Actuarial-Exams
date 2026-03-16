@@ -1,0 +1,59 @@
+{
+    "subject": "SA1",
+    "sitting": "September_2025",
+    "model": "gemini-3.1-pro-high",
+    "graded_by": "gemini-3.1-pro-high",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 55,
+    "marks_awarded_harsh": 58.5,
+    "percentage_harsh": 59,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 90,
+    "percentage_fair": 90,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 99,
+    "percentage_generous": 99,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 38,
+            "marks_awarded_harsh": 25.0,
+            "marks_awarded_fair": 35.0,
+            "marks_awarded_generous": 38.0,
+            "topics": [
+                "Product Design",
+                "Solvency II BEL",
+                "Outsourcing",
+                "Profitability"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 35,
+            "marks_awarded_harsh": 19.5,
+            "marks_awarded_fair": 31.0,
+            "marks_awarded_generous": 35.0,
+            "topics": [
+                "Long Term Care",
+                "Market Development",
+                "International Expansion",
+                "Pricing"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 27,
+            "marks_awarded_harsh": 14.0,
+            "marks_awarded_fair": 24.0,
+            "marks_awarded_generous": 26.0,
+            "topics": [
+                "Asset Share",
+                "Guaranteed vs Reviewable",
+                "Investment Strategy",
+                "ALM"
+            ]
+        }
+    ]
+}

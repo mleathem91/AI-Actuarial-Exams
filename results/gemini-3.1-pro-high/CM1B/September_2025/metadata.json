@@ -1,0 +1,58 @@
+{
+    "subject": "CM1B",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Google Antigravity",
+    "date": "2026-03-14",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 59,
+    "marks_awarded_harsh": 95,
+    "percentage_harsh": 95.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 100,
+    "percentage_fair": 100.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 100,
+    "percentage_generous": 100.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 20,
+            "marks_awarded_harsh": 20,
+            "marks_awarded_fair": 20,
+            "marks_awarded_generous": 20,
+            "topics": [
+                "Term Structure of Interest Rates",
+                "Forward Rates",
+                "Expectations Theory",
+                "Par Yield"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 40,
+            "marks_awarded_harsh": 37,
+            "marks_awarded_fair": 40,
+            "marks_awarded_generous": 40,
+            "topics": [
+                "Joint Life Term Assurance",
+                "Deferred Annuities",
+                "Reversionary Annuities"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 40,
+            "marks_awarded_harsh": 38,
+            "marks_awarded_fair": 40,
+            "marks_awarded_generous": 40,
+            "topics": [
+                "Unit-Linked Contracts",
+                "Profit Testing",
+                "Zeroisation",
+                "Reserves"
+            ]
+        }
+    ]
+}

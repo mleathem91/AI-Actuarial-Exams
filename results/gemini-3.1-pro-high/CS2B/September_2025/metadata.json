@@ -1,0 +1,59 @@
+{
+    "subject": "CS2B",
+    "sitting": "September_2025",
+    "model": "gemini-3.1-pro-high",
+    "graded_by": "antigravity",
+    "date": "2026-03-14",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 56.0,
+    "marks_awarded_harsh": 71,
+    "percentage_harsh": 71.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 76,
+    "percentage_fair": 76.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 85,
+    "percentage_generous": 85.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 30,
+            "marks_awarded_harsh": 24.5,
+            "marks_awarded_fair": 24.5,
+            "marks_awarded_generous": 27,
+            "topics": [
+                "compound poisson",
+                "gammas and weibulls",
+                "normal approximation",
+                "simulations"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 34,
+            "marks_awarded_harsh": 21.5,
+            "marks_awarded_fair": 24,
+            "marks_awarded_generous": 27,
+            "topics": [
+                "survival models",
+                "kaplan-meier",
+                "cox proportional hazards"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 36,
+            "marks_awarded_harsh": 25,
+            "marks_awarded_fair": 27.5,
+            "marks_awarded_generous": 31,
+            "topics": [
+                "time series",
+                "seasonality",
+                "ar processes",
+                "simulations",
+                "ljung-box test"
+            ]
+        }
+    ]
+}

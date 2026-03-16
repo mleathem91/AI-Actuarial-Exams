@@ -1,0 +1,116 @@
+{
+    "subject": "SP2",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 56,
+    "marks_awarded_harsh": 70.5,
+    "percentage_harsh": 70.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 88.0,
+    "percentage_fair": 88.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 95.0,
+    "percentage_generous": 95.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 12,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.5,
+            "topics": [
+                "risk identification",
+                "risk management",
+                "unit linked bonds"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 11,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 11.0,
+            "topics": [
+                "mortality experience",
+                "experience variation",
+                "term assurance"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 15,
+            "marks_awarded_harsh": 7.5,
+            "marks_awarded_fair": 11.5,
+            "marks_awarded_generous": 13.0,
+            "topics": [
+                "unit pricing",
+                "expanding funds",
+                "contracting funds"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 10,
+            "marks_awarded_harsh": 5.0,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "policy alterations",
+                "equating policy values method",
+                "business impact"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 13,
+            "marks_awarded_harsh": 11.0,
+            "marks_awarded_fair": 13.0,
+            "marks_awarded_generous": 13.0,
+            "topics": [
+                "sensitivity analysis",
+                "deterministic modelling",
+                "whole life assurance"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 10,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "policyholder options",
+                "unit linked options"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 11,
+            "marks_awarded_harsh": 7.5,
+            "marks_awarded_fair": 9.5,
+            "marks_awarded_generous": 10.5,
+            "topics": [
+                "analysis of surplus",
+                "data checks",
+                "lapse management"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 18,
+            "marks_awarded_harsh": 14.5,
+            "marks_awarded_fair": 18.0,
+            "marks_awarded_generous": 18.0,
+            "topics": [
+                "distribution channels",
+                "independent intermediaries",
+                "direct sales forces",
+                "persistency rates"
+            ]
+        }
+    ]
+}

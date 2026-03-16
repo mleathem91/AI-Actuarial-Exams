@@ -1,0 +1,81 @@
+{
+    "subject": "SA7",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 53,
+    "marks_awarded_harsh": 80.5,
+    "percentage_harsh": 80.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 94.0,
+    "percentage_fair": 94.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 99.0,
+    "percentage_generous": 99.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 30,
+            "marks_awarded_harsh": 22.0,
+            "marks_awarded_fair": 27.0,
+            "marks_awarded_generous": 29.0,
+            "topics": [
+                "Pensions",
+                "Demographics",
+                "Automatic Enrolment",
+                "Housing vs Pension Saving"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 14,
+            "marks_awarded_harsh": 10.0,
+            "marks_awarded_fair": 13.0,
+            "marks_awarded_generous": 14.0,
+            "topics": [
+                "DB vs DC",
+                "Fiduciary Management",
+                "Tender Responses"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 18,
+            "marks_awarded_harsh": 16.5,
+            "marks_awarded_fair": 18.0,
+            "marks_awarded_generous": 18.0,
+            "topics": [
+                "ESG",
+                "External Vendors",
+                "Rating Aggregation"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 10,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Direct Private Loans",
+                "Due Diligence"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 28,
+            "marks_awarded_harsh": 24.0,
+            "marks_awarded_fair": 27.0,
+            "marks_awarded_generous": 28.0,
+            "topics": [
+                "Hedge Funds",
+                "Alternative Asset Classes",
+                "Commodities",
+                "Insurance-Linked Securities"
+            ]
+        }
+    ]
+}

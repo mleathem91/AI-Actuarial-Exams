@@ -1,0 +1,15 @@
+{
+    "model": "Gemini 3.1 Pro (High)",
+    "subject": "SP7",
+    "sitting": "September_2025",
+    "pass_mark": 64,
+    "scores": {
+        "harsh": 71.0,
+        "fair": 81.0,
+        "generous": 90.0
+    },
+    "result": "PASS",
+    "exam_date": "2026-02-20",
+    "marker_version": "1.0",
+    "time_allocated": "3 hours 20 minutes"
+}

@@ -1,0 +1,76 @@
+{
+    "subject": "SP5",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1. Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 64,
+    "marks_awarded_harsh": 89.0,
+    "percentage_harsh": 89.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 96.0,
+    "percentage_fair": 96.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 99.5,
+    "percentage_generous": 99.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 9,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": []
+        },
+        {
+            "question": 2,
+            "marks_available": 13,
+            "marks_awarded_harsh": 13.0,
+            "marks_awarded_fair": 13.0,
+            "marks_awarded_generous": 13.0,
+            "topics": []
+        },
+        {
+            "question": 3,
+            "marks_available": 12,
+            "marks_awarded_harsh": 8.5,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 12.0,
+            "topics": []
+        },
+        {
+            "question": 4,
+            "marks_available": 14,
+            "marks_awarded_harsh": 12.0,
+            "marks_awarded_fair": 14.0,
+            "marks_awarded_generous": 14.0,
+            "topics": []
+        },
+        {
+            "question": 5,
+            "marks_available": 19,
+            "marks_awarded_harsh": 17.5,
+            "marks_awarded_fair": 19.0,
+            "marks_awarded_generous": 19.0,
+            "topics": []
+        },
+        {
+            "question": 6,
+            "marks_available": 21,
+            "marks_awarded_harsh": 17.5,
+            "marks_awarded_fair": 19.0,
+            "marks_awarded_generous": 20.5,
+            "topics": []
+        },
+        {
+            "question": 7,
+            "marks_available": 12,
+            "marks_awarded_harsh": 11.5,
+            "marks_awarded_fair": 12.0,
+            "marks_awarded_generous": 12.0,
+            "topics": []
+        }
+    ]
+}

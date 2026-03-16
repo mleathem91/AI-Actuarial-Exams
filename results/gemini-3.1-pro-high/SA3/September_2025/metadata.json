@@ -1,0 +1,58 @@
+{
+    "subject": "SA3",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity Evaluator",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 60,
+    "marks_awarded_harsh": 70,
+    "percentage_harsh": 70.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 84,
+    "percentage_fair": 84.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 95.5,
+    "percentage_generous": 95.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 31,
+            "marks_awarded_harsh": 20.0,
+            "marks_awarded_fair": 24.0,
+            "marks_awarded_generous": 30.5,
+            "topics": [
+                "Exposure to risk",
+                "Premium earnings",
+                "Reserving and accounting"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 29,
+            "marks_awarded_harsh": 20.5,
+            "marks_awarded_fair": 25.0,
+            "marks_awarded_generous": 26.5,
+            "topics": [
+                "Reinsurance",
+                "Counterparty risk",
+                "Commutations",
+                "Legacy portfolios"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 40,
+            "marks_awarded_harsh": 29.5,
+            "marks_awarded_fair": 35.0,
+            "marks_awarded_generous": 38.5,
+            "topics": [
+                "Market expansion",
+                "Distribution channels",
+                "Currency risk",
+                "Geopolitical risk"
+            ]
+        }
+    ]
+}

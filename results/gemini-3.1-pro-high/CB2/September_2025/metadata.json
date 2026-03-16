@@ -1,0 +1,167 @@
+{
+    "subject": "CB2",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Gemini 3.1 Pro (High)",
+    "date": "2026-02-25",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 58,
+    "marks_awarded_harsh": 94.0,
+    "percentage_harsh": 94.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 95.0,
+    "percentage_fair": 95.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 96.0,
+    "percentage_generous": 96.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": "MCQ",
+            "marks_available": 39,
+            "marks_awarded_harsh": 36,
+            "marks_awarded_fair": 36,
+            "marks_awarded_generous": 36,
+            "topics": [
+                "Microeconomics",
+                "Macroeconomics"
+            ]
+        },
+        {
+            "question": 27,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Consumer theory",
+                "Budget line",
+                "Indifference curve"
+            ]
+        },
+        {
+            "question": 28,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Oligopoly",
+                "Market structure",
+                "Non-price competition"
+            ]
+        },
+        {
+            "question": 29,
+            "marks_available": 4,
+            "marks_awarded_harsh": 4,
+            "marks_awarded_fair": 4,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "Unemployment",
+                "Structural unemployment",
+                "Real-wage unemployment"
+            ]
+        },
+        {
+            "question": 30,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Economies of scale",
+                "Fixed costs",
+                "Aircraft industry"
+            ]
+        },
+        {
+            "question": 31,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Barriers to entry",
+                "Monopolistic competition",
+                "Oligopoly"
+            ]
+        },
+        {
+            "question": 32,
+            "marks_available": 6,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Macroeconomic model",
+                "National income",
+                "Government expenditure"
+            ]
+        },
+        {
+            "question": 33,
+            "marks_available": 4,
+            "marks_awarded_harsh": 4,
+            "marks_awarded_fair": 4,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "Exchange rates",
+                "Central bank",
+                "Balance of payments",
+                "FDI"
+            ]
+        },
+        {
+            "question": 34,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Circular flow of income",
+                "Households",
+                "Firms",
+                "Government"
+            ]
+        },
+        {
+            "question": 35,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "International trade",
+                "Comparative advantage",
+                "Terms of trade"
+            ]
+        },
+        {
+            "question": 36,
+            "marks_available": 7,
+            "marks_awarded_harsh": 6,
+            "marks_awarded_fair": 7,
+            "marks_awarded_generous": 7,
+            "topics": [
+                "Financial institutions",
+                "Mutual funds",
+                "Banks",
+                "Insurance",
+                "Pension funds"
+            ]
+        },
+        {
+            "question": 37,
+            "marks_available": 10,
+            "marks_awarded_harsh": 9,
+            "marks_awarded_fair": 9,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "Product differentiation",
+                "Game theory",
+                "Duopoly"
+            ]
+        }
+    ]
+}

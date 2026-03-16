@@ -1,0 +1,61 @@
+{
+  "subject": "CM2B",
+  "sitting": "September_2025",
+  "model": "Gemini 3.1 Pro (High)",
+  "graded_by": "Google Antigravity",
+  "date": "2026-03-14",
+  "total_marks_available": 100,
+  "pass_mark_percentage": 59,
+  "marks_awarded_harsh": 93,
+  "percentage_harsh": 93,
+  "result_harsh": "PASS",
+  "marks_awarded_fair": 98,
+  "percentage_fair": 98,
+  "result_fair": "PASS",
+  "marks_awarded_generous": 100,
+  "percentage_generous": 100,
+  "result_generous": "PASS",
+  "per_question": [
+    {
+      "question": 1,
+      "marks_available": 36,
+      "marks_awarded_harsh": 34,
+      "marks_awarded_fair": 35,
+      "marks_awarded_generous": 36,
+      "topics": [
+        "Simulation",
+        "Utility Theory",
+        "Value at Risk",
+        "Expected Shortfall",
+        "Method of Moments"
+      ]
+    },
+    {
+      "question": 2,
+      "marks_available": 32,
+      "marks_awarded_harsh": 29,
+      "marks_awarded_fair": 31,
+      "marks_awarded_generous": 32,
+      "topics": [
+        "Vasicek Model",
+        "Spot and Forward Rates",
+        "CIR Model",
+        "Simulation"
+      ]
+    },
+    {
+      "question": 3,
+      "marks_available": 32,
+      "marks_awarded_harsh": 30,
+      "marks_awarded_fair": 32,
+      "marks_awarded_generous": 32,
+      "topics": [
+        "Forward Pricing",
+        "Put-Call Parity",
+        "Implied Volatility",
+        "Greeks (Vega)",
+        "Approximation Error"
+      ]
+    }
+  ]
+}

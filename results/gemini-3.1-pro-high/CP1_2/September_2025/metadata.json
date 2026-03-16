@@ -1,0 +1,66 @@
+{
+    "subject": "CP1_2",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Gemini 3.1 Pro (High)",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 55,
+    "marks_awarded_harsh": 78.5,
+    "percentage_harsh": 78.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 93.0,
+    "percentage_fair": 93.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 97.5,
+    "percentage_generous": 97.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 25,
+            "marks_awarded_harsh": 19.0,
+            "marks_awarded_fair": 22.0,
+            "marks_awarded_generous": 24.5,
+            "topics": [
+                "ERM",
+                "Regulator and Government Response",
+                "Insolvency / Capital",
+                "Pension Schemes",
+                "Reinsurance / Underwriting / Climate"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 51,
+            "marks_awarded_harsh": 42.5,
+            "marks_awarded_fair": 49.0,
+            "marks_awarded_generous": 50.0,
+            "topics": [
+                "Corporate Strategy",
+                "Diversification",
+                "Risk Identification",
+                "Pricing / Revenue Management",
+                "Corporate Finance",
+                "Employee Benefits",
+                "Travel Insurance Risks",
+                "Pricing with limited data"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 24,
+            "marks_awarded_harsh": 17.0,
+            "marks_awarded_fair": 22.0,
+            "marks_awarded_generous": 23.0,
+            "topics": [
+                "Expansion Strategy",
+                "Actuarial Advice",
+                "Risk Identification",
+                "Regulatory Regime",
+                "Capital Modeling",
+                "Performance Measurement"
+            ]
+        }
+    ]
+}

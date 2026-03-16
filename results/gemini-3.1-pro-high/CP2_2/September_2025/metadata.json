@@ -1,0 +1,56 @@
+{
+    "subject": "CP2_2",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Actuarial Expert LLM Supervisor",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 57,
+    "marks_awarded_harsh": 64.0,
+    "percentage_harsh": 64.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 72.5,
+    "percentage_fair": 72.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 81.0,
+    "percentage_generous": 81.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 8,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 8.0,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "Spreadsheet Additional Scenario",
+                "Modelling"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 14,
+            "marks_awarded_harsh": 11.0,
+            "marks_awarded_fair": 12.0,
+            "marks_awarded_generous": 13.0,
+            "topics": [
+                "Chart Production",
+                "Data Visualisation"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 78,
+            "marks_awarded_harsh": 45.0,
+            "marks_awarded_fair": 52.5,
+            "marks_awarded_generous": 60.0,
+            "topics": [
+                "Summary Document",
+                "Methodology",
+                "Conclusions",
+                "Next Steps",
+                "Drafting"
+            ]
+        }
+    ]
+}

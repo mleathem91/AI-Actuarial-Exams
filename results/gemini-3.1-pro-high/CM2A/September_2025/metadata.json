@@ -1,0 +1,133 @@
+{
+    "subject": "CM2A",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-25",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 59,
+    "marks_awarded_harsh": 80.5,
+    "percentage_harsh": 80.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 85.5,
+    "percentage_fair": 85.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 88.0,
+    "percentage_generous": 88.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 9,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 8.5,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "Bornhuetter-Ferguson",
+                "Reserving"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 9,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "Ruin Theory",
+                "Lundberg's Inequality"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 15,
+            "marks_awarded_harsh": 13.0,
+            "marks_awarded_fair": 14.5,
+            "marks_awarded_generous": 15.0,
+            "topics": [
+                "Single Index Model",
+                "Diversification",
+                "Multifactor Model"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 14,
+            "marks_awarded_harsh": 13.0,
+            "marks_awarded_fair": 14.0,
+            "marks_awarded_generous": 14.0,
+            "topics": [
+                "Black-Scholes",
+                "Delta Hedging",
+                "Put-Call Parity"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 7,
+            "marks_awarded_harsh": 6.0,
+            "marks_awarded_fair": 6.5,
+            "marks_awarded_generous": 6.5,
+            "topics": [
+                "Downside Risk",
+                "Semi-variance",
+                "Expected Shortfall"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 11,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 11.0,
+            "marks_awarded_generous": 11.0,
+            "topics": [
+                "Utility Theory",
+                "Expected Utility Theorem"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 12,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Gambler's Ruin",
+                "Discrete Random Walk"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 9,
+            "marks_awarded_harsh": 6.0,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 7.5,
+            "topics": [
+                "Efficient Market Hypothesis"
+            ]
+        },
+        {
+            "question": 9,
+            "marks_available": 5,
+            "marks_awarded_harsh": 5.0,
+            "marks_awarded_fair": 5.0,
+            "marks_awarded_generous": 5.0,
+            "topics": [
+                "Martingales",
+                "Tower Property",
+                "Binomial Trees"
+            ]
+        },
+        {
+            "question": 10,
+            "marks_available": 9,
+            "marks_awarded_harsh": 8.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "Value at Risk",
+                "Portfolio Variance"
+            ]
+        }
+    ]
+}

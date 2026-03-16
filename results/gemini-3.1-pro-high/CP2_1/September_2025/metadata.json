@@ -1,0 +1,49 @@
+{
+    "subject": "CP2_1",
+    "sitting": "September_2025",
+    "model": "gemini-3.1-pro-high",
+    "graded_by": "gemini-3.1-pro-high",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 57,
+    "marks_awarded_harsh": 90.0,
+    "percentage_harsh": 90.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 95.0,
+    "percentage_fair": 95.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 98.0,
+    "percentage_generous": 98.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 37,
+            "marks_awarded_harsh": 34.0,
+            "marks_awarded_fair": 36.0,
+            "marks_awarded_generous": 37.0,
+            "topics": [
+                "spreadsheet modelling",
+                "charting",
+                "equation of value",
+                "annuity factors",
+                "auto checks",
+                "good spreadsheet practice"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 63,
+            "marks_awarded_harsh": 56.0,
+            "marks_awarded_fair": 59.0,
+            "marks_awarded_generous": 61.0,
+            "topics": [
+                "audit trail communication",
+                "audit trail content",
+                "reasonableness checks",
+                "methodology description",
+                "assumptions"
+            ]
+        }
+    ]
+}

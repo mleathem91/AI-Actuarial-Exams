@@ -1,0 +1,137 @@
+{
+    "subject": "CB1",
+    "sitting": "September 2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity Grader",
+    "date": "2026-02-25",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 60,
+    "marks_awarded_harsh": 61.0,
+    "percentage_harsh": 61.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 74.5,
+    "percentage_fair": 74.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 85.0,
+    "percentage_generous": 85.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 20,
+            "marks_awarded_harsh": 14,
+            "marks_awarded_fair": 14,
+            "marks_awarded_generous": 14,
+            "topics": [
+                "MCQs"
+            ]
+        },
+        {
+            "question": 11,
+            "marks_available": 5,
+            "marks_awarded_harsh": 4,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Corporate Governance"
+            ]
+        },
+        {
+            "question": 12,
+            "marks_available": 5,
+            "marks_awarded_harsh": 2,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "ESG",
+                "Investment Management"
+            ]
+        },
+        {
+            "question": 13,
+            "marks_available": 5,
+            "marks_awarded_harsh": 3,
+            "marks_awarded_fair": 4,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Rights Issue",
+                "Pricing"
+            ]
+        },
+        {
+            "question": 14,
+            "marks_available": 5,
+            "marks_awarded_harsh": 2,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "Factoring"
+            ]
+        },
+        {
+            "question": 15,
+            "marks_available": 5,
+            "marks_awarded_harsh": 2,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "Project Appraisal",
+                "Discount Rate"
+            ]
+        },
+        {
+            "question": 16,
+            "marks_available": 5,
+            "marks_awarded_harsh": 3,
+            "marks_awarded_fair": 4,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Beta",
+                "Cost of Equity"
+            ]
+        },
+        {
+            "question": 17,
+            "marks_available": 5,
+            "marks_awarded_harsh": 4,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Sustainability Reporting"
+            ]
+        },
+        {
+            "question": 18,
+            "marks_available": 5,
+            "marks_awarded_harsh": 2,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 4,
+            "topics": [
+                "Dividend Yield"
+            ]
+        },
+        {
+            "question": 19,
+            "marks_available": 20,
+            "marks_awarded_harsh": 15,
+            "marks_awarded_fair": 16.5,
+            "marks_awarded_generous": 18,
+            "topics": [
+                "Financial Statements",
+                "Depreciation"
+            ]
+        },
+        {
+            "question": 20,
+            "marks_available": 20,
+            "marks_awarded_harsh": 10,
+            "marks_awarded_fair": 14,
+            "marks_awarded_generous": 17,
+            "topics": [
+                "Agency Issues",
+                "Dividends",
+                "Business Growth"
+            ]
+        }
+    ]
+}

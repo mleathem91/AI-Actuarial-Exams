@@ -1,0 +1,85 @@
+{
+    "subject": "SP1",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-19",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 60,
+    "marks_awarded_harsh": 93,
+    "percentage_harsh": 93.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 99,
+    "percentage_fair": 99.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 100,
+    "percentage_generous": 100.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 24,
+            "marks_awarded_harsh": 24,
+            "marks_awarded_fair": 24,
+            "marks_awarded_generous": 24,
+            "topics": [
+                "Group CI",
+                "Product Design",
+                "Underwriting",
+                "Pricing"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 26,
+            "marks_awarded_harsh": 25,
+            "marks_awarded_fair": 26,
+            "marks_awarded_generous": 26,
+            "topics": [
+                "Income Protection",
+                "Claims in Payment Reserves",
+                "Counterparty Risk",
+                "Mitigation"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 28,
+            "marks_awarded_harsh": 24,
+            "marks_awarded_fair": 27,
+            "marks_awarded_generous": 28,
+            "topics": [
+                "LTCI",
+                "Pre-funded vs Immediate Needs",
+                "Macroeconomic Risk",
+                "Mitigation"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 12,
+            "marks_awarded_harsh": 11,
+            "marks_awarded_fair": 12,
+            "marks_awarded_generous": 12,
+            "topics": [
+                "PMI",
+                "Niche Product Development",
+                "Underwriting",
+                "Pricing"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 10,
+            "marks_awarded_harsh": 9,
+            "marks_awarded_fair": 10,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "Regulatory Changes",
+                "Reserving",
+                "Capital Requirements",
+                "Solvency"
+            ]
+        }
+    ]
+}

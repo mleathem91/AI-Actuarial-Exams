@@ -1,0 +1,46 @@
+{
+    "subject": "SA4",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-03-14",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 58,
+    "marks_awarded_harsh": 62,
+    "percentage_harsh": 62,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 80,
+    "percentage_fair": 80,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 92,
+    "percentage_generous": 92,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 52,
+            "marks_awarded_harsh": 33.5,
+            "marks_awarded_fair": 41.5,
+            "marks_awarded_generous": 49,
+            "topics": [
+                "Scheme Design",
+                "DB to DC closure",
+                "ETVs and PIE",
+                "Trustee Duties"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 48,
+            "marks_awarded_harsh": 28.5,
+            "marks_awarded_fair": 38.5,
+            "marks_awarded_generous": 43,
+            "topics": [
+                "Assumptions",
+                "Yield Curves",
+                "Bulk Transfers",
+                "Demographic Impacts"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "subject": "CP3",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Exam Grader Persona",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 57,
+    "marks_awarded_harsh": 72.5,
+    "percentage_harsh": 72.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 80.5,
+    "percentage_fair": 80.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 89.5,
+    "percentage_generous": 89.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 80,
+            "marks_awarded_harsh": 58.5,
+            "marks_awarded_fair": 64.5,
+            "marks_awarded_generous": 71.5,
+            "topics": [
+                "Draft Paper",
+                "Communication",
+                "Trustees",
+                "Broke Judgement"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 20,
+            "marks_awarded_harsh": 14,
+            "marks_awarded_fair": 16,
+            "marks_awarded_generous": 18,
+            "topics": [
+                "Reflection",
+                "Visual Aids",
+                "Member Perspective",
+                "Jargon"
+            ]
+        }
+    ]
+}

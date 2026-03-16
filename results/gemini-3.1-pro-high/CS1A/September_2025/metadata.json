@@ -1,0 +1,129 @@
+{
+    "subject": "CS1A",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "antigravity",
+    "date": "2026-03-14",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 58,
+    "marks_awarded_harsh": 89,
+    "percentage_harsh": 89,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 92.5,
+    "percentage_fair": 92.5,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 93.5,
+    "percentage_generous": 93.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 5,
+            "marks_awarded_harsh": 3,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 3,
+            "topics": [
+                "Probability Distributions",
+                "Conditional Probability",
+                "Expectation"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 5,
+            "marks_awarded_harsh": 4.5,
+            "marks_awarded_fair": 5,
+            "marks_awarded_generous": 5,
+            "topics": [
+                "Statistical Inference",
+                "Estimators",
+                "Mean Square Error"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 5,
+            "marks_awarded_harsh": 0.5,
+            "marks_awarded_fair": 0.5,
+            "marks_awarded_generous": 0.5,
+            "topics": [
+                "Cumulant Generating Functions",
+                "Moments"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 7,
+            "marks_awarded_harsh": 7,
+            "marks_awarded_fair": 7,
+            "marks_awarded_generous": 7,
+            "topics": [
+                "Hypothesis Testing",
+                "F-Distribution",
+                "Confidence Intervals"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 11,
+            "marks_awarded_harsh": 11,
+            "marks_awarded_fair": 11,
+            "marks_awarded_generous": 11,
+            "topics": [
+                "Bayesian Statistics",
+                "Conditional Variance",
+                "Correlation"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 12,
+            "marks_awarded_harsh": 11,
+            "marks_awarded_fair": 12,
+            "marks_awarded_generous": 12,
+            "topics": [
+                "Bayesian Inference",
+                "Conjugate Priors",
+                "Loss Functions"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 16,
+            "marks_awarded_harsh": 16,
+            "marks_awarded_fair": 16,
+            "marks_awarded_generous": 16,
+            "topics": [
+                "Maximum Likelihood Estimation",
+                "Binomial Distribution",
+                "Confidence Intervals"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 19,
+            "marks_awarded_harsh": 18,
+            "marks_awarded_fair": 19,
+            "marks_awarded_generous": 19,
+            "topics": [
+                "Geometric Distribution",
+                "Memoryless Property",
+                "Bayes' Theorem",
+                "Normal Approximation"
+            ]
+        },
+        {
+            "question": 9,
+            "marks_available": 20,
+            "marks_awarded_harsh": 18,
+            "marks_awarded_fair": 19,
+            "marks_awarded_generous": 20,
+            "topics": [
+                "Generalized Linear Models",
+                "Deviance",
+                "Degrees of Freedom",
+                "Model Selection"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "subject": "CP1_1",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Antigravity CP1 Persona Grader",
+    "date": "2026-02-21",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 55,
+    "marks_awarded_harsh": 81.0,
+    "percentage_harsh": 81.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 93.0,
+    "percentage_fair": 93.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 97.0,
+    "percentage_generous": 97.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 6,
+            "marks_awarded_harsh": 6.0,
+            "marks_awarded_fair": 6.0,
+            "marks_awarded_generous": 6.0,
+            "topics": [
+                "Risk Management",
+                "Asset Allocation",
+                "Surplus Usage"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 7,
+            "marks_awarded_harsh": 6.5,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 7.0,
+            "topics": [
+                "Valuation Models",
+                "Model Replacement",
+                "Project Management"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 7,
+            "marks_awarded_harsh": 6.5,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 7.0,
+            "topics": [
+                "Capital Management",
+                "Subordinated Debt",
+                "Mutual Companies"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 8,
+            "marks_awarded_harsh": 5.0,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "Financial Education",
+                "Client Lifecycle",
+                "Personal Finance"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 9,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "Banking Profitability",
+                "Mortgages",
+                "Financial Ratios",
+                "Annual Reporting"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 10,
+            "marks_awarded_harsh": 9.5,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Demographic Assumptions",
+                "Defined Benefit Pensions",
+                "Valuation Data"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 9,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 8.0,
+            "marks_awarded_generous": 8.5,
+            "topics": [
+                "Securitisation",
+                "Funding",
+                "Stakeholders",
+                "Financial Marketing"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 11,
+            "marks_awarded_harsh": 10.0,
+            "marks_awarded_fair": 11.0,
+            "marks_awarded_generous": 11.0,
+            "topics": [
+                "Risk Management framework",
+                "Banking Regulation",
+                "Corporate Governance"
+            ]
+        },
+        {
+            "question": 9,
+            "marks_available": 11,
+            "marks_awarded_harsh": 7.5,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Mortality Experience",
+                "Defined Benefit Pensions",
+                "Risk Mitigation",
+                "Insurance"
+            ]
+        },
+        {
+            "question": 10,
+            "marks_available": 10,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Social Security",
+                "Health/Disability Insurance",
+                "Government Policy"
+            ]
+        },
+        {
+            "question": 11,
+            "marks_available": 12,
+            "marks_awarded_harsh": 7.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 10.5,
+            "topics": [
+                "Insurance Fraud",
+                "Underwriting",
+                "Claims Management"
+            ]
+        }
+    ]
+}

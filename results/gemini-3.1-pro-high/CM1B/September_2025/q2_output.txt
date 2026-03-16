@@ -1,0 +1,4 @@
+(i) Expected value of joint life term assurance: 7391.9667
+Prob both survive to vesting = 0.815123
+Value of annuity at vesting M65/F60: 154318.6142
+(ii) Expected value of deferred annuity at issue: 31876.7951

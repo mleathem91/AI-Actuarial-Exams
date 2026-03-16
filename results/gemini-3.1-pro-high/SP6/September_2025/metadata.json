@@ -1,0 +1,102 @@
+{
+    "subject": "SP6",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "AntiGravity",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 60,
+    "marks_awarded_harsh": 87.5,
+    "percentage_harsh": 87.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 94,
+    "percentage_fair": 94,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 98,
+    "percentage_generous": 98,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 18,
+            "marks_awarded_harsh": 18,
+            "marks_awarded_fair": 18,
+            "marks_awarded_generous": 18,
+            "topics": [
+                "asian_options",
+                "binomial_trees",
+                "pricing"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 15,
+            "marks_awarded_harsh": 11.5,
+            "marks_awarded_fair": 13,
+            "marks_awarded_generous": 14,
+            "topics": [
+                "property_total_return_swaps",
+                "present_value"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 10,
+            "marks_awarded_harsh": 8,
+            "marks_awarded_fair": 9,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "european_call_options",
+                "self_financing_portfolio"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 11,
+            "marks_awarded_harsh": 10,
+            "marks_awarded_fair": 11,
+            "marks_awarded_generous": 11,
+            "topics": [
+                "credit_default_swaps",
+                "negative_basis_trade"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 13,
+            "marks_awarded_harsh": 12,
+            "marks_awarded_fair": 13,
+            "marks_awarded_generous": 13,
+            "topics": [
+                "speculators",
+                "market_impact",
+                "high_frequency_trading"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 16,
+            "marks_awarded_harsh": 11,
+            "marks_awarded_fair": 13,
+            "marks_awarded_generous": 15,
+            "topics": [
+                "treasury_rates",
+                "interest_rate_swaps",
+                "steepener_trade",
+                "gilts"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 17,
+            "marks_awarded_harsh": 17,
+            "marks_awarded_fair": 17,
+            "marks_awarded_generous": 17,
+            "topics": [
+                "monte_carlo_simulations",
+                "down_and_in_put_options",
+                "standard_error"
+            ]
+        }
+    ]
+}

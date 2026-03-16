@@ -1,0 +1,136 @@
+{
+    "subject": "SP8",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Gemini 3.1 Pro (High)",
+    "date": "2026-02-20T17:27:13Z",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 58,
+    "marks_awarded_harsh": 58,
+    "percentage_harsh": 58.0,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 76,
+    "percentage_fair": 76.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 85,
+    "percentage_generous": 85.0,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 3,
+            "marks_awarded_harsh": 3,
+            "marks_awarded_fair": 3,
+            "marks_awarded_generous": 3,
+            "topics": [
+                "Credibility Theory",
+                "Calculation"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 10,
+            "marks_awarded_harsh": 8,
+            "marks_awarded_fair": 9.5,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "AI in Pricing",
+                "Commercial Property vs Residential Property"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 7,
+            "marks_awarded_harsh": 5.5,
+            "marks_awarded_fair": 6.5,
+            "marks_awarded_generous": 7,
+            "topics": [
+                "Cyber Risk",
+                "Large Losses",
+                "Frequency-Severity Modelling"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 8,
+            "marks_awarded_harsh": 8,
+            "marks_awarded_fair": 8,
+            "marks_awarded_generous": 8,
+            "topics": [
+                "Emissions Insurance",
+                "Data Limitations",
+                "Marine"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 10,
+            "marks_awarded_harsh": 8.5,
+            "marks_awarded_fair": 10,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "Product Liability",
+                "External Data",
+                "Pricing Factors"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 11,
+            "marks_awarded_harsh": 9,
+            "marks_awarded_fair": 11,
+            "marks_awarded_generous": 11,
+            "topics": [
+                "Method of Moments",
+                "Lognormal vs Exponential",
+                "Distribution Selection",
+                "Calculation"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 10,
+            "marks_awarded_harsh": 8.5,
+            "marks_awarded_fair": 9.5,
+            "marks_awarded_generous": 10,
+            "topics": [
+                "Swing Rated Contracts",
+                "Reinsurance Pricing"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 11,
+            "marks_awarded_harsh": 11,
+            "marks_awarded_fair": 11,
+            "marks_awarded_generous": 11,
+            "topics": [
+                "Traditional GLM Testing",
+                "Unsupervised Machine Learning"
+            ]
+        },
+        {
+            "question": 9,
+            "marks_available": 14,
+            "marks_awarded_harsh": 12.5,
+            "marks_awarded_fair": 13.5,
+            "marks_awarded_generous": 14,
+            "topics": [
+                "Excess of Loss Retrocession",
+                "Pricing Adjustments"
+            ]
+        },
+        {
+            "question": 10,
+            "marks_available": 16,
+            "marks_awarded_harsh": 16,
+            "marks_awarded_fair": 16,
+            "marks_awarded_generous": 16,
+            "topics": [
+                "Wedding Insurance",
+                "New Product Launch",
+                "Reinsurance Considerations"
+            ]
+        }
+    ]
+}

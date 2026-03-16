@@ -1,0 +1,52 @@
+{
+    "subject": "SP9",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1. Pro (High)",
+    "graded_by": "Antigravity",
+    "date": "2026-02-20",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 57,
+    "marks_awarded_harsh": 62.5,
+    "percentage_harsh": 62.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 80.0,
+    "percentage_fair": 80.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 93.5,
+    "percentage_generous": 93.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 48,
+            "marks_awarded_harsh": 33.5,
+            "marks_awarded_fair": 40.5,
+            "marks_awarded_generous": 46.0,
+            "topics": [
+                "ERM framework",
+                "Risk structure",
+                "Operational synergy",
+                "Diversification",
+                "Reputational risk",
+                "Remuneration",
+                "Risk identification processes",
+                "Stakeholder analysis"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 52,
+            "marks_awarded_harsh": 29.0,
+            "marks_awarded_fair": 39.5,
+            "marks_awarded_generous": 47.5,
+            "topics": [
+                "Mergers and acquisitions",
+                "Integration risks",
+                "Management incentives",
+                "ERM framework alignment",
+                "Financial analysis",
+                "Hedging strategy with futures"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "subject": "CS2A",
+    "sitting": "September_2025",
+    "model": "Gemini 3.1 Pro (High)",
+    "graded_by": "Gemini 3.1 Pro (High)",
+    "date": "2026-02-25",
+    "total_marks_available": 100,
+    "pass_mark_percentage": 56,
+    "marks_awarded_harsh": 91.5,
+    "percentage_harsh": 91.5,
+    "result_harsh": "PASS",
+    "marks_awarded_fair": 95.0,
+    "percentage_fair": 95.0,
+    "result_fair": "PASS",
+    "marks_awarded_generous": 97.5,
+    "percentage_generous": 97.5,
+    "result_generous": "PASS",
+    "per_question": [
+        {
+            "question": 1,
+            "marks_available": 9,
+            "marks_awarded_harsh": 6.5,
+            "marks_awarded_fair": 7.0,
+            "marks_awarded_generous": 8.0,
+            "topics": [
+                "Markov Chains",
+                "Renewal Modeling"
+            ]
+        },
+        {
+            "question": 2,
+            "marks_available": 10,
+            "marks_awarded_harsh": 10.0,
+            "marks_awarded_fair": 10.0,
+            "marks_awarded_generous": 10.0,
+            "topics": [
+                "Extreme Value Theory",
+                "Tail Thickness",
+                "Limiting Density Ratio"
+            ]
+        },
+        {
+            "question": 3,
+            "marks_available": 9,
+            "marks_awarded_harsh": 9.0,
+            "marks_awarded_fair": 9.0,
+            "marks_awarded_generous": 9.0,
+            "topics": [
+                "Time Series",
+                "AR(1)",
+                "Autocovariance"
+            ]
+        },
+        {
+            "question": 4,
+            "marks_available": 15,
+            "marks_awarded_harsh": 14.0,
+            "marks_awarded_fair": 14.5,
+            "marks_awarded_generous": 15.0,
+            "topics": [
+                "Survival Models",
+                "Poisson Model Graduation",
+                "Standardised Deviations"
+            ]
+        },
+        {
+            "question": 5,
+            "marks_available": 12,
+            "marks_awarded_harsh": 11.5,
+            "marks_awarded_fair": 12.0,
+            "marks_awarded_generous": 12.0,
+            "topics": [
+                "Markov Chains",
+                "Dice Game Transitions"
+            ]
+        },
+        {
+            "question": 6,
+            "marks_available": 15,
+            "marks_awarded_harsh": 15.0,
+            "marks_awarded_fair": 15.0,
+            "marks_awarded_generous": 15.0,
+            "topics": [
+                "Time Series",
+                "AR(2)",
+                "Yule-Walker Equations",
+                "Diagnostic Checking"
+            ]
+        },
+        {
+            "question": 7,
+            "marks_available": 13,
+            "marks_awarded_harsh": 10.0,
+            "marks_awarded_fair": 10.5,
+            "marks_awarded_generous": 11.5,
+            "topics": [
+                "Stochastic Processes",
+                "Binomial Projections"
+            ]
+        },
+        {
+            "question": 8,
+            "marks_available": 17,
+            "marks_awarded_harsh": 15.5,
+            "marks_awarded_fair": 17.0,
+            "marks_awarded_generous": 17.0,
+            "topics": [
+                "Machine Learning",
+                "Linear Regression",
+                "AIC/BIC",
+                "Ridge",
+                "Lasso"
+            ]
+        }
+    ]
+}
